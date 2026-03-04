@@ -1,0 +1,5 @@
+{
+  "name": "Patient Appointment Dashboard",
+  "description": "A clean, medical-themed dashboard for managing patient appointments with scheduling and status tracking.",
+  "requestFramePermissions": []
+}
